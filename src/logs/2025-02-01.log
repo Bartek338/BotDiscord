@@ -1,0 +1,59 @@
+[2025-02-01T11:54:36.599Z] [NORMAL] Loaded command: ping
+[2025-02-01T11:54:36.604Z] [NORMAL] Loaded command: user
+[2025-02-01T11:54:36.606Z] [NORMAL] Started refreshing application (/) commands.
+[2025-02-01T11:54:37.017Z] [NORMAL] Successfully reloaded application (/) commands.
+[2025-02-01T11:54:37.020Z] [NORMAL] Loaded event: interactionCreate
+[2025-02-01T11:54:37.022Z] [NORMAL] Loaded event: ready
+[2025-02-01T11:54:57.368Z] [NORMAL] Loaded command: ping
+[2025-02-01T11:54:57.375Z] [NORMAL] Loaded command: user
+[2025-02-01T11:54:57.376Z] [NORMAL] Started refreshing application (/) commands.
+[2025-02-01T11:54:57.671Z] [NORMAL] Successfully reloaded application (/) commands.
+[2025-02-01T11:54:57.677Z] [NORMAL] Loaded event: interactionCreate
+[2025-02-01T11:54:57.680Z] [NORMAL] Loaded event: ready
+[2025-02-01T11:55:07.244Z] [NORMAL] Loaded command: ping
+[2025-02-01T11:55:07.252Z] [NORMAL] Loaded command: user
+[2025-02-01T11:55:07.255Z] [NORMAL] Started refreshing application (/) commands.
+[2025-02-01T11:55:09.396Z] [NORMAL] Loaded command: ping
+[2025-02-01T11:55:09.402Z] [NORMAL] Loaded command: user
+[2025-02-01T11:55:09.404Z] [NORMAL] Started refreshing application (/) commands.
+[2025-02-01T11:56:07.443Z] [NORMAL] Successfully reloaded application (/) commands.
+[2025-02-01T11:56:07.446Z] [NORMAL] Loaded event: interactionCreate
+[2025-02-01T11:56:07.448Z] [NORMAL] Loaded event: ready
+[2025-02-01T12:07:33.065Z] [NORMAL] Loaded command: ping
+[2025-02-01T12:07:33.070Z] [NORMAL] Loaded command: user
+[2025-02-01T12:07:33.071Z] [NORMAL] Started refreshing application (/) commands.
+[2025-02-01T12:07:33.367Z] [NORMAL] Successfully reloaded application (/) commands.
+[2025-02-01T12:07:33.370Z] [NORMAL] Loaded event: interactionCreate
+[2025-02-01T12:07:33.373Z] [NORMAL] Loaded event: ready
+[2025-02-01T12:08:34.597Z] [DEBUG] Użytkownik doniczka (485414045516562443) użył komendy /ping na serwerze testowanie botów
+[2025-02-01T12:08:34.923Z] [DEBUG] Komenda /ping została pomyślnie wykonana przez doniczka (485414045516562443)
+[2025-02-01T12:09:16.691Z] [NORMAL] Loaded command: ping
+[2025-02-01T12:09:16.697Z] [NORMAL] Loaded command: user
+[2025-02-01T12:09:16.698Z] [NORMAL] Started refreshing application (/) commands.
+[2025-02-01T12:09:17.022Z] [NORMAL] Successfully reloaded application (/) commands.
+[2025-02-01T12:09:17.024Z] [NORMAL] Loaded event: interactionCreate
+[2025-02-01T12:09:17.028Z] [NORMAL] Loaded event: ready
+[2025-02-01T12:09:22.583Z] [DEBUG] Użytkownik doniczka (485414045516562443) użył komendy /ping na serwerze testowanie botów
+[2025-02-01T12:09:22.866Z] [DEBUG] Komenda /ping została pomyślnie wykonana przez doniczka (485414045516562443)
+[2025-02-01T12:10:06.479Z] [NORMAL] Loaded command: ping
+[2025-02-01T12:10:06.487Z] [NORMAL] Loaded command: user
+[2025-02-01T12:10:06.489Z] [NORMAL] Started refreshing application (/) commands.
+[2025-02-01T12:10:06.837Z] [NORMAL] Successfully reloaded application (/) commands.
+[2025-02-01T12:10:06.840Z] [NORMAL] Loaded event: interactionCreate
+[2025-02-01T12:10:06.842Z] [NORMAL] Loaded event: ready
+[2025-02-01T12:10:10.313Z] [DEBUG] Użytkownik doniczka (485414045516562443) użył komendy /ping na serwerze testowanie botów
+[2025-02-01T12:10:10.749Z] [DEBUG] /ping wykonano przez doniczka
+[2025-02-01T12:11:10.439Z] [NORMAL] Loaded command: ping
+[2025-02-01T12:11:10.444Z] [NORMAL] Loaded command: user
+[2025-02-01T12:11:10.445Z] [NORMAL] Started refreshing application (/) commands.
+[2025-02-01T12:11:10.736Z] [NORMAL] Successfully reloaded application (/) commands.
+[2025-02-01T12:11:10.738Z] [NORMAL] Loaded event: interactionCreate
+[2025-02-01T12:11:10.741Z] [NORMAL] Loaded event: ready
+[2025-02-01T12:31:15.557Z] [NORMAL] Loaded command: createticketpanel
+[2025-02-01T12:31:15.570Z] [NORMAL] Loaded command: ping
+[2025-02-01T12:31:15.573Z] [NORMAL] Loaded command: user
+[2025-02-01T12:31:15.575Z] [NORMAL] Started refreshing application (/) commands.
+[2025-02-01T12:31:15.956Z] [NORMAL] Successfully reloaded application (/) commands.
+[2025-02-01T12:31:15.960Z] [NORMAL] Loaded event: interactionCreate
+[2025-02-01T12:31:15.962Z] [NORMAL] Loaded event: ready
+[2025-02-01T12:31:15.965Z] [NORMAL] Loaded event: ticketInteraction

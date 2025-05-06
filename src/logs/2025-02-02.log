@@ -1,0 +1,319 @@
+[2025-02-02T08:49:04.367Z] [NORMAL] Loaded command: createticketpanel
+[2025-02-02T08:49:04.373Z] [NORMAL] Loaded command: ping
+[2025-02-02T08:49:04.376Z] [NORMAL] Loaded command: user
+[2025-02-02T08:49:04.377Z] [NORMAL] Started refreshing application (/) commands.
+[2025-02-02T08:49:04.645Z] [NORMAL] Successfully reloaded application (/) commands.
+[2025-02-02T08:49:04.648Z] [NORMAL] Loaded event: interactionCreate
+[2025-02-02T08:49:04.650Z] [NORMAL] Loaded event: ready
+[2025-02-02T08:49:04.652Z] [NORMAL] Loaded event: ticketInteraction
+[2025-02-02T08:49:12.176Z] [DEBUG] Użytkownik doniczka (485414045516562443) użył komendy /createticketpanel na serwerze testowanie botów
+[2025-02-02T08:49:12.470Z] [DEBUG] /createticketpanel wykonano przez doniczka
+[2025-02-02T08:49:39.825Z] [NORMAL] Loaded command: createticketpanel
+[2025-02-02T08:49:39.829Z] [NORMAL] Loaded command: ping
+[2025-02-02T08:49:39.832Z] [NORMAL] Loaded command: user
+[2025-02-02T08:49:39.833Z] [NORMAL] Started refreshing application (/) commands.
+[2025-02-02T08:49:40.204Z] [NORMAL] Successfully reloaded application (/) commands.
+[2025-02-02T08:49:40.208Z] [NORMAL] Loaded event: interactionCreate
+[2025-02-02T08:49:40.210Z] [NORMAL] Loaded event: ready
+[2025-02-02T08:49:40.213Z] [NORMAL] Loaded event: ticketInteraction
+[2025-02-02T08:49:48.232Z] [DEBUG] Użytkownik doniczka (485414045516562443) użył komendy /createticketpanel na serwerze testowanie botów
+[2025-02-02T08:49:48.964Z] [DEBUG] /createticketpanel wykonano przez doniczka
+[2025-02-02T08:50:46.817Z] [NORMAL] Loaded command: createticketpanel
+[2025-02-02T08:50:46.822Z] [NORMAL] Loaded command: ping
+[2025-02-02T08:50:46.826Z] [NORMAL] Loaded command: user
+[2025-02-02T08:50:46.827Z] [NORMAL] Started refreshing application (/) commands.
+[2025-02-02T08:50:47.173Z] [NORMAL] Successfully reloaded application (/) commands.
+[2025-02-02T08:50:47.178Z] [NORMAL] Loaded event: interactionCreate
+[2025-02-02T08:50:47.181Z] [NORMAL] Loaded event: ready
+[2025-02-02T08:50:47.183Z] [NORMAL] Loaded event: ticketInteraction
+[2025-02-02T08:50:50.025Z] [NORMAL] Loaded command: createticketpanel
+[2025-02-02T08:50:50.030Z] [NORMAL] Loaded command: ping
+[2025-02-02T08:50:50.033Z] [NORMAL] Loaded command: user
+[2025-02-02T08:50:50.034Z] [NORMAL] Started refreshing application (/) commands.
+[2025-02-02T08:50:50.411Z] [NORMAL] Successfully reloaded application (/) commands.
+[2025-02-02T08:50:50.414Z] [NORMAL] Loaded event: interactionCreate
+[2025-02-02T08:50:50.416Z] [NORMAL] Loaded event: ready
+[2025-02-02T08:50:50.418Z] [NORMAL] Loaded event: ticketInteraction
+[2025-02-02T08:51:08.681Z] [NORMAL] Loaded command: createticketpanel
+[2025-02-02T08:51:08.687Z] [NORMAL] Loaded command: ping
+[2025-02-02T08:51:08.697Z] [NORMAL] Loaded command: user
+[2025-02-02T08:51:08.699Z] [NORMAL] Started refreshing application (/) commands.
+[2025-02-02T08:51:13.149Z] [NORMAL] Loaded command: createticketpanel
+[2025-02-02T08:51:13.153Z] [NORMAL] Loaded command: ping
+[2025-02-02T08:51:13.157Z] [NORMAL] Loaded command: user
+[2025-02-02T08:51:13.159Z] [NORMAL] Started refreshing application (/) commands.
+[2025-02-02T08:51:19.202Z] [NORMAL] Loaded command: createticketpanel
+[2025-02-02T08:51:19.220Z] [NORMAL] Loaded command: ping
+[2025-02-02T08:51:19.225Z] [NORMAL] Loaded command: user
+[2025-02-02T08:51:19.226Z] [NORMAL] Started refreshing application (/) commands.
+[2025-02-02T08:51:20.789Z] [NORMAL] Successfully reloaded application (/) commands.
+[2025-02-02T08:51:20.794Z] [NORMAL] Loaded event: interactionCreate
+[2025-02-02T08:51:20.796Z] [NORMAL] Loaded event: ready
+[2025-02-02T08:51:20.800Z] [NORMAL] Loaded event: ticketInteraction
+[2025-02-02T08:51:20.809Z] [NORMAL] Loaded button: ticket_add
+[2025-02-02T08:51:20.819Z] [NORMAL] Loaded button: ticket_close
+[2025-02-02T08:51:20.825Z] [NORMAL] Loaded button: ticket_create
+[2025-02-02T08:51:20.832Z] [NORMAL] Loaded button: ticket_remove
+[2025-02-02T08:51:20.837Z] [NORMAL] Loaded button: ticket_rename
+[2025-02-02T08:52:54.865Z] [NORMAL] Błąd podczas obsługi przycisku ticket_create_support: Invalid Form Body
+parent_id[CHANNEL_PARENT_INVALID]: Category does not exist
+[2025-02-02T08:54:03.927Z] [NORMAL] Loaded command: createticketpanel
+[2025-02-02T08:54:03.933Z] [NORMAL] Loaded command: ping
+[2025-02-02T08:54:03.938Z] [NORMAL] Loaded command: user
+[2025-02-02T08:54:03.939Z] [NORMAL] Started refreshing application (/) commands.
+[2025-02-02T08:54:04.410Z] [NORMAL] Successfully reloaded application (/) commands.
+[2025-02-02T08:54:04.414Z] [NORMAL] Loaded event: interactionCreate
+[2025-02-02T08:54:04.416Z] [NORMAL] Loaded event: ready
+[2025-02-02T08:54:04.418Z] [NORMAL] Loaded event: ticketInteraction
+[2025-02-02T08:54:04.423Z] [NORMAL] Loaded button: ticket_add
+[2025-02-02T08:54:04.425Z] [NORMAL] Loaded button: ticket_close
+[2025-02-02T08:54:04.429Z] [NORMAL] Loaded button: ticket_create
+[2025-02-02T08:54:04.431Z] [NORMAL] Loaded button: ticket_remove
+[2025-02-02T08:54:04.435Z] [NORMAL] Loaded button: ticket_rename
+[2025-02-02T08:54:17.174Z] [NORMAL] Created new category: 🎫 Pomoc (1335533741577207899)
+[2025-02-02T08:54:18.434Z] [NORMAL] Error creating ticket: Unknown Channel
+[2025-02-02T08:54:27.666Z] [NORMAL] Błąd podczas obsługi przycisku ticket_rename: Modal is not a constructor
+[2025-02-02T08:55:28.918Z] [NORMAL] Loaded command: createticketpanel
+[2025-02-02T08:55:28.925Z] [NORMAL] Loaded command: ping
+[2025-02-02T08:55:28.929Z] [NORMAL] Loaded command: user
+[2025-02-02T08:55:28.931Z] [NORMAL] Started refreshing application (/) commands.
+[2025-02-02T08:55:29.256Z] [NORMAL] Successfully reloaded application (/) commands.
+[2025-02-02T08:55:29.260Z] [NORMAL] Loaded event: interactionCreate
+[2025-02-02T08:55:29.264Z] [NORMAL] Loaded event: ready
+[2025-02-02T08:55:29.266Z] [NORMAL] Loaded event: ticketInteraction
+[2025-02-02T08:55:29.271Z] [NORMAL] Loaded button: ticket_add
+[2025-02-02T08:55:29.275Z] [NORMAL] Loaded button: ticket_close
+[2025-02-02T08:55:29.277Z] [NORMAL] Loaded button: ticket_create
+[2025-02-02T08:55:29.282Z] [NORMAL] Loaded button: ticket_remove
+[2025-02-02T08:55:29.284Z] [NORMAL] Loaded button: ticket_rename
+[2025-02-02T08:55:32.907Z] [NORMAL] Loaded command: createticketpanel
+[2025-02-02T08:55:32.917Z] [NORMAL] Loaded command: ping
+[2025-02-02T08:55:32.921Z] [NORMAL] Loaded command: user
+[2025-02-02T08:55:32.923Z] [NORMAL] Started refreshing application (/) commands.
+[2025-02-02T08:55:33.245Z] [NORMAL] Successfully reloaded application (/) commands.
+[2025-02-02T08:55:33.250Z] [NORMAL] Loaded event: interactionCreate
+[2025-02-02T08:55:33.253Z] [NORMAL] Loaded event: ready
+[2025-02-02T08:55:33.256Z] [NORMAL] Loaded event: ticketInteraction
+[2025-02-02T08:55:33.261Z] [NORMAL] Loaded button: ticket_add
+[2025-02-02T08:55:33.264Z] [NORMAL] Loaded button: ticket_close
+[2025-02-02T08:55:33.267Z] [NORMAL] Loaded button: ticket_create
+[2025-02-02T08:55:33.270Z] [NORMAL] Loaded button: ticket_remove
+[2025-02-02T08:55:33.273Z] [NORMAL] Loaded button: ticket_rename
+[2025-02-02T08:56:16.091Z] [NORMAL] Created new category: 🎫 Pomoc (1335534240552718349)
+[2025-02-02T08:56:17.148Z] [NORMAL] Error creating ticket: Unknown Channel
+[2025-02-02T08:58:34.457Z] [NORMAL] Loaded command: createticketpanel
+[2025-02-02T08:58:34.462Z] [NORMAL] Loaded command: ping
+[2025-02-02T08:58:34.465Z] [NORMAL] Loaded command: user
+[2025-02-02T08:58:34.467Z] [NORMAL] Started refreshing application (/) commands.
+[2025-02-02T08:58:34.751Z] [NORMAL] Successfully reloaded application (/) commands.
+[2025-02-02T08:58:34.755Z] [NORMAL] Loaded event: interactionCreate
+[2025-02-02T08:58:34.757Z] [NORMAL] Loaded event: ready
+[2025-02-02T08:58:34.760Z] [NORMAL] Loaded event: ticketInteraction
+[2025-02-02T08:58:34.765Z] [NORMAL] Loaded button: ticket_add
+[2025-02-02T08:58:34.768Z] [NORMAL] Loaded button: ticket_close
+[2025-02-02T08:58:34.770Z] [NORMAL] Loaded button: ticket_create
+[2025-02-02T08:58:34.776Z] [NORMAL] Loaded button: ticket_remove
+[2025-02-02T08:58:34.778Z] [NORMAL] Loaded button: ticket_rename
+[2025-02-02T09:00:48.706Z] [NORMAL] Created new category: 🎫 Pomoc (1335535383911600281)
+[2025-02-02T09:00:50.052Z] [NORMAL] Error creating ticket: Unknown Channel
+[2025-02-02T09:01:17.291Z] [NORMAL] Created new category: ⚠ Zgłoszenia (1335535504380137523)
+[2025-02-02T09:01:18.931Z] [NORMAL] Error creating ticket: Unknown Channel
+[2025-02-02T09:02:22.148Z] [NORMAL] Loaded command: createticketpanel
+[2025-02-02T09:02:22.154Z] [NORMAL] Loaded command: ping
+[2025-02-02T09:02:22.160Z] [NORMAL] Loaded command: user
+[2025-02-02T09:02:22.161Z] [NORMAL] Started refreshing application (/) commands.
+[2025-02-02T09:02:24.371Z] [NORMAL] Loaded command: createticketpanel
+[2025-02-02T09:02:24.375Z] [NORMAL] Loaded command: ping
+[2025-02-02T09:02:24.378Z] [NORMAL] Loaded command: user
+[2025-02-02T09:02:24.380Z] [NORMAL] Started refreshing application (/) commands.
+[2025-02-02T09:02:24.705Z] [NORMAL] Successfully reloaded application (/) commands.
+[2025-02-02T09:02:24.709Z] [NORMAL] Loaded event: interactionCreate
+[2025-02-02T09:02:24.711Z] [NORMAL] Loaded event: ready
+[2025-02-02T09:02:24.713Z] [NORMAL] Loaded event: ticketInteraction
+[2025-02-02T09:02:24.720Z] [NORMAL] Loaded button: ticket_add
+[2025-02-02T09:02:24.723Z] [NORMAL] Loaded button: ticket_close
+[2025-02-02T09:02:24.726Z] [NORMAL] Loaded button: ticket_create
+[2025-02-02T09:02:24.730Z] [NORMAL] Loaded button: ticket_remove
+[2025-02-02T09:02:24.733Z] [NORMAL] Loaded button: ticket_rename
+[2025-02-02T09:02:27.331Z] [NORMAL] Created new category: 🎫 Pomoc (1335535797734084609)
+[2025-02-02T09:02:29.046Z] [NORMAL] Error creating ticket: Unknown Channel
+[2025-02-02T09:03:34.905Z] [NORMAL] Loaded command: createticketpanel
+[2025-02-02T09:03:34.918Z] [NORMAL] Loaded command: ping
+[2025-02-02T09:03:34.922Z] [NORMAL] Loaded command: user
+[2025-02-02T09:03:34.924Z] [NORMAL] Started refreshing application (/) commands.
+[2025-02-02T09:03:35.427Z] [NORMAL] Successfully reloaded application (/) commands.
+[2025-02-02T09:03:35.432Z] [NORMAL] Loaded event: interactionCreate
+[2025-02-02T09:03:35.434Z] [NORMAL] Loaded event: ready
+[2025-02-02T09:03:35.438Z] [NORMAL] Loaded event: ticketInteraction
+[2025-02-02T09:03:35.444Z] [NORMAL] Loaded button: ticket_add
+[2025-02-02T09:03:35.449Z] [NORMAL] Loaded button: ticket_close
+[2025-02-02T09:03:35.458Z] [NORMAL] Loaded button: ticket_create
+[2025-02-02T09:03:35.463Z] [NORMAL] Loaded button: ticket_remove
+[2025-02-02T09:03:35.466Z] [NORMAL] Loaded button: ticket_rename
+[2025-02-02T09:04:34.244Z] [NORMAL] Created new category: 🎫 Pomoc (1335536330440183880)
+[2025-02-02T09:04:35.888Z] [NORMAL] Error creating ticket: Unknown Channel
+[2025-02-02T09:07:33.755Z] [NORMAL] Loaded command: createticketpanel
+[2025-02-02T09:07:33.762Z] [NORMAL] Loaded command: ping
+[2025-02-02T09:07:33.766Z] [NORMAL] Loaded command: user
+[2025-02-02T09:07:33.767Z] [NORMAL] Started refreshing application (/) commands.
+[2025-02-02T09:07:34.105Z] [NORMAL] Successfully reloaded application (/) commands.
+[2025-02-02T09:07:34.111Z] [NORMAL] Loaded event: interactionCreate
+[2025-02-02T09:07:34.113Z] [NORMAL] Loaded event: ready
+[2025-02-02T09:07:34.115Z] [NORMAL] Loaded event: ticketInteraction
+[2025-02-02T09:07:34.120Z] [NORMAL] Loaded button: ticket_add
+[2025-02-02T09:07:34.124Z] [NORMAL] Loaded button: ticket_close
+[2025-02-02T09:07:34.126Z] [NORMAL] Loaded button: ticket_create
+[2025-02-02T09:07:34.129Z] [NORMAL] Loaded button: ticket_remove
+[2025-02-02T09:07:34.132Z] [NORMAL] Loaded button: ticket_rename
+[2025-02-02T09:07:37.441Z] [NORMAL] Loaded command: createticketpanel
+[2025-02-02T09:07:37.447Z] [NORMAL] Loaded command: ping
+[2025-02-02T09:07:37.450Z] [NORMAL] Loaded command: user
+[2025-02-02T09:07:37.452Z] [NORMAL] Started refreshing application (/) commands.
+[2025-02-02T09:07:37.751Z] [NORMAL] Successfully reloaded application (/) commands.
+[2025-02-02T09:07:37.756Z] [NORMAL] Loaded event: interactionCreate
+[2025-02-02T09:07:37.758Z] [NORMAL] Loaded event: ready
+[2025-02-02T09:07:37.761Z] [NORMAL] Loaded event: ticketInteraction
+[2025-02-02T09:07:37.768Z] [NORMAL] Loaded button: ticket_add
+[2025-02-02T09:07:37.770Z] [NORMAL] Loaded button: ticket_close
+[2025-02-02T09:07:37.773Z] [NORMAL] Loaded button: ticket_create
+[2025-02-02T09:07:37.776Z] [NORMAL] Loaded button: ticket_remove
+[2025-02-02T09:07:37.780Z] [NORMAL] Loaded button: ticket_rename
+[2025-02-02T09:07:43.242Z] [NORMAL] Created new category: 🎫 Pomoc (1335537123184345088)
+[2025-02-02T09:07:45.052Z] [NORMAL] Error creating ticket: Unknown Channel
+[2025-02-02T09:08:23.773Z] [NORMAL] Loaded command: createticketpanel
+[2025-02-02T09:08:23.796Z] [NORMAL] Loaded command: ping
+[2025-02-02T09:08:23.802Z] [NORMAL] Loaded command: user
+[2025-02-02T09:08:23.803Z] [NORMAL] Started refreshing application (/) commands.
+[2025-02-02T09:08:33.880Z] [NORMAL] Initialization error: Cannot read properties of undefined (reading 'fetch')
+[2025-02-02T09:08:47.498Z] [NORMAL] Initialization error: Cannot read properties of undefined (reading 'fetch')
+[2025-02-02T09:09:13.980Z] [NORMAL] Synchronizacja cache kanałów...
+[2025-02-02T09:09:14.476Z] [DEBUG] Zsynchronizowano kanały dla serwera: rean.
+[2025-02-02T09:09:14.739Z] [DEBUG] Zsynchronizowano kanały dla serwera: testowanie botów
+[2025-02-02T09:09:14.745Z] [NORMAL] Loaded command: createticketpanel
+[2025-02-02T09:09:14.748Z] [NORMAL] Loaded command: ping
+[2025-02-02T09:09:14.751Z] [NORMAL] Loaded command: user
+[2025-02-02T09:09:14.753Z] [NORMAL] Started refreshing application (/) commands.
+[2025-02-02T09:09:15.079Z] [NORMAL] Successfully reloaded application (/) commands.
+[2025-02-02T09:09:15.084Z] [NORMAL] Loaded event: interactionCreate
+[2025-02-02T09:09:15.085Z] [NORMAL] Loaded event: ready
+[2025-02-02T09:09:15.087Z] [NORMAL] Loaded event: ticketInteraction
+[2025-02-02T09:09:15.093Z] [NORMAL] Loaded button: ticket_add
+[2025-02-02T09:09:15.096Z] [NORMAL] Loaded button: ticket_close
+[2025-02-02T09:09:15.099Z] [NORMAL] Loaded button: ticket_create
+[2025-02-02T09:09:15.103Z] [NORMAL] Loaded button: ticket_remove
+[2025-02-02T09:09:15.105Z] [NORMAL] Loaded button: ticket_rename
+[2025-02-02T09:09:15.107Z] [NORMAL] Bot został pomyślnie zainicjalizowany!
+[2025-02-02T09:09:41.720Z] [NORMAL] Created new category: 🎫 Pomoc (1335537619781554221)
+[2025-02-02T09:09:43.112Z] [NORMAL] Error creating ticket: Unknown Channel
+[2025-02-02T09:10:18.602Z] [NORMAL] Created new category: 🎫 Pomoc (1335537774719143936)
+[2025-02-02T09:10:19.860Z] [NORMAL] Error creating ticket: Unknown Channel
+[2025-02-02T09:15:03.790Z] [NORMAL] Synchronizacja cache kanałów...
+[2025-02-02T09:15:04.267Z] [DEBUG] Zsynchronizowano kanały dla serwera: rean.
+[2025-02-02T09:15:04.520Z] [DEBUG] Zsynchronizowano kanały dla serwera: testowanie botów
+[2025-02-02T09:15:04.531Z] [NORMAL] Loaded command: createticketpanel
+[2025-02-02T09:15:04.536Z] [NORMAL] Loaded command: ping
+[2025-02-02T09:15:04.547Z] [NORMAL] Loaded command: user
+[2025-02-02T09:15:04.551Z] [NORMAL] Started refreshing application (/) commands.
+[2025-02-02T09:15:04.849Z] [NORMAL] Successfully reloaded application (/) commands.
+[2025-02-02T09:15:04.855Z] [NORMAL] Loaded event: interactionCreate
+[2025-02-02T09:15:04.859Z] [NORMAL] Loaded event: ready
+[2025-02-02T09:15:04.861Z] [NORMAL] Loaded event: ticketInteraction
+[2025-02-02T09:15:04.868Z] [NORMAL] Loaded button: ticket_add
+[2025-02-02T09:15:04.885Z] [NORMAL] Loaded button: ticket_close
+[2025-02-02T09:15:04.890Z] [NORMAL] Loaded button: ticket_create
+[2025-02-02T09:15:04.894Z] [NORMAL] Loaded button: ticket_remove
+[2025-02-02T09:15:04.910Z] [NORMAL] Loaded button: ticket_rename
+[2025-02-02T09:15:04.914Z] [NORMAL] Bot został pomyślnie zainicjalizowany!
+[2025-02-02T09:19:28.091Z] [DEBUG] Found existing category: 🎫 Pomoc (1335535383911600281)
+[2025-02-02T09:19:30.099Z] [NORMAL] Created new category: ⚠ Zgłoszenia (1335540087970205707)
+[2025-02-02T09:19:31.350Z] [NORMAL] Error creating ticket: Unknown Channel
+[2025-02-02T09:19:38.753Z] [DEBUG] Found existing category: 🎫 Pomoc (1335535383911600281)
+[2025-02-02T09:25:20.112Z] [DEBUG] Found existing category: 🎫 Pomoc (1335535383911600281)
+[2025-02-02T09:25:24.275Z] [NORMAL] Created new category: ⚠ Zgłoszenia (1335541573362126889)
+[2025-02-02T09:25:25.583Z] [NORMAL] Error creating ticket: Unknown Channel
+[2025-02-02T09:25:29.947Z] [DEBUG] Found existing category: ⚠ Zgłoszenia (1335541573362126889)
+[2025-02-02T09:27:09.310Z] [NORMAL] Synchronizacja cache kanałów...
+[2025-02-02T09:27:11.772Z] [NORMAL] Synchronizacja cache kanałów...
+[2025-02-02T09:27:12.309Z] [DEBUG] Zsynchronizowano kanały dla serwera: rean.
+[2025-02-02T09:27:12.551Z] [DEBUG] Zsynchronizowano kanały dla serwera: testowanie botów
+[2025-02-02T09:27:12.575Z] [NORMAL] Loaded command: createticketpanel
+[2025-02-02T09:27:12.580Z] [NORMAL] Loaded command: ping
+[2025-02-02T09:27:12.587Z] [NORMAL] Loaded command: user
+[2025-02-02T09:27:12.590Z] [NORMAL] Started refreshing application (/) commands.
+[2025-02-02T09:27:13.013Z] [NORMAL] Successfully reloaded application (/) commands.
+[2025-02-02T09:27:13.016Z] [NORMAL] Loaded event: interactionCreate
+[2025-02-02T09:27:13.018Z] [NORMAL] Loaded event: ready
+[2025-02-02T09:27:13.020Z] [NORMAL] Loaded event: ticketInteraction
+[2025-02-02T09:27:13.024Z] [NORMAL] Loaded button: ticket_add
+[2025-02-02T09:27:13.027Z] [NORMAL] Loaded button: ticket_close
+[2025-02-02T09:27:13.029Z] [NORMAL] Loaded button: ticket_create
+[2025-02-02T09:27:13.032Z] [NORMAL] Loaded button: ticket_remove
+[2025-02-02T09:27:13.034Z] [NORMAL] Loaded button: ticket_rename
+[2025-02-02T09:27:13.035Z] [NORMAL] Bot został pomyślnie zainicjalizowany!
+[2025-02-02T09:27:28.887Z] [DEBUG] Użytkownik doniczka (485414045516562443) użył komendy /createticketpanel na serwerze testowanie botów
+[2025-02-02T09:27:29.486Z] [DEBUG] /createticketpanel wykonano przez doniczka
+[2025-02-02T09:27:32.796Z] [NORMAL] Created new category: ⚠ Zgłoszenia (1335542112392970291)
+[2025-02-02T09:27:33.966Z] [NORMAL] Error creating ticket: Unknown Channel
+[2025-02-02T09:27:38.994Z] [DEBUG] Found existing category: 🎫 Pomoc (1335535383911600281)
+[2025-02-02T09:27:43.619Z] [DEBUG] Found existing category: 🎫 Pomoc (1335535383911600281)
+[2025-02-02T09:27:44.821Z] [NORMAL] Error creating ticket: Unknown Channel
+[2025-02-02T09:27:45.990Z] [DEBUG] Found existing category: 🎫 Pomoc (1335535383911600281)
+[2025-02-02T09:28:41.152Z] [NORMAL] Synchronizacja cache kanałów...
+[2025-02-02T09:28:41.682Z] [DEBUG] Zsynchronizowano kanały dla serwera: rean.
+[2025-02-02T09:28:41.924Z] [DEBUG] Zsynchronizowano kanały dla serwera: testowanie botów
+[2025-02-02T09:28:41.932Z] [NORMAL] Loaded command: createticketpanel
+[2025-02-02T09:28:41.935Z] [NORMAL] Loaded command: ping
+[2025-02-02T09:28:41.939Z] [NORMAL] Loaded command: user
+[2025-02-02T09:28:41.940Z] [NORMAL] Started refreshing application (/) commands.
+[2025-02-02T09:28:42.246Z] [NORMAL] Successfully reloaded application (/) commands.
+[2025-02-02T09:28:42.250Z] [NORMAL] Loaded event: interactionCreate
+[2025-02-02T09:28:42.252Z] [NORMAL] Loaded event: ready
+[2025-02-02T09:28:42.254Z] [NORMAL] Loaded event: ticketInteraction
+[2025-02-02T09:28:42.259Z] [NORMAL] Loaded button: ticket_add
+[2025-02-02T09:28:42.261Z] [NORMAL] Loaded button: ticket_close
+[2025-02-02T09:28:42.264Z] [NORMAL] Loaded button: ticket_create
+[2025-02-02T09:28:42.268Z] [NORMAL] Loaded button: ticket_remove
+[2025-02-02T09:28:42.271Z] [NORMAL] Loaded button: ticket_rename
+[2025-02-02T09:28:42.272Z] [NORMAL] Bot został pomyślnie zainicjalizowany!
+[2025-02-02T09:28:46.197Z] [NORMAL] Synchronizacja cache kanałów...
+[2025-02-02T09:28:46.747Z] [DEBUG] Zsynchronizowano kanały dla serwera: rean.
+[2025-02-02T09:28:46.998Z] [DEBUG] Zsynchronizowano kanały dla serwera: testowanie botów
+[2025-02-02T09:28:47.003Z] [NORMAL] Loaded command: createticketpanel
+[2025-02-02T09:28:47.006Z] [NORMAL] Loaded command: ping
+[2025-02-02T09:28:47.010Z] [NORMAL] Loaded command: user
+[2025-02-02T09:28:47.012Z] [NORMAL] Started refreshing application (/) commands.
+[2025-02-02T09:28:47.328Z] [NORMAL] Successfully reloaded application (/) commands.
+[2025-02-02T09:28:47.331Z] [NORMAL] Loaded event: interactionCreate
+[2025-02-02T09:28:47.333Z] [NORMAL] Loaded event: ready
+[2025-02-02T09:28:47.335Z] [NORMAL] Loaded event: ticketInteraction
+[2025-02-02T09:28:47.340Z] [NORMAL] Loaded button: ticket_add
+[2025-02-02T09:28:47.342Z] [NORMAL] Loaded button: ticket_close
+[2025-02-02T09:28:47.345Z] [NORMAL] Loaded button: ticket_create
+[2025-02-02T09:28:47.348Z] [NORMAL] Loaded button: ticket_remove
+[2025-02-02T09:28:47.350Z] [NORMAL] Loaded button: ticket_rename
+[2025-02-02T09:28:47.352Z] [NORMAL] Bot został pomyślnie zainicjalizowany!
+[2025-02-02T13:00:49.353Z] [NORMAL] Error creating category: Invalid Form Body
+topic[CHANNEL_TOPIC_INVALID]: Channel topic contains at least one word that is not allowed.
+[2025-02-02T13:00:49.383Z] [NORMAL] Error creating ticket: Invalid Form Body
+topic[CHANNEL_TOPIC_INVALID]: Channel topic contains at least one word that is not allowed.
+[2025-02-02T13:06:46.020Z] [NORMAL] Error creating category: Invalid Form Body
+topic[CHANNEL_TOPIC_INVALID]: Channel topic contains at least one word that is not allowed.
+[2025-02-02T13:06:46.022Z] [NORMAL] Error creating ticket: Invalid Form Body
+topic[CHANNEL_TOPIC_INVALID]: Channel topic contains at least one word that is not allowed.
+[2025-02-02T13:07:24.152Z] [NORMAL] Synchronizacja cache kanałów...
+[2025-02-02T13:07:24.657Z] [DEBUG] Zsynchronizowano kanały dla serwera: rean.
+[2025-02-02T13:07:25.114Z] [DEBUG] Zsynchronizowano kanały dla serwera: testowanie botów
+[2025-02-02T13:07:25.120Z] [NORMAL] Loaded command: createticketpanel
+[2025-02-02T13:07:25.123Z] [NORMAL] Loaded command: ping
+[2025-02-02T13:07:25.127Z] [NORMAL] Loaded command: user
+[2025-02-02T13:07:25.129Z] [NORMAL] Started refreshing application (/) commands.
+[2025-02-02T13:07:25.485Z] [NORMAL] Successfully reloaded application (/) commands.
+[2025-02-02T13:07:25.489Z] [NORMAL] Loaded event: interactionCreate
+[2025-02-02T13:07:25.493Z] [NORMAL] Loaded event: ready
+[2025-02-02T13:07:25.495Z] [NORMAL] Loaded event: ticketInteraction
+[2025-02-02T13:07:25.500Z] [NORMAL] Loaded button: ticket_add
+[2025-02-02T13:07:25.502Z] [NORMAL] Loaded button: ticket_close
+[2025-02-02T13:07:25.506Z] [NORMAL] Loaded button: ticket_create
+[2025-02-02T13:07:25.510Z] [NORMAL] Loaded button: ticket_remove
+[2025-02-02T13:07:25.514Z] [NORMAL] Loaded button: ticket_rename
+[2025-02-02T13:07:25.515Z] [NORMAL] Bot został pomyślnie zainicjalizowany!

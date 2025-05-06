@@ -1,0 +1,59 @@
+{
+    // Poziom logowania - DEBUG pokazuje wszystkie logi, można zmienić na NORMAL dla mniej szczegółowych
+    "logLevel": "DEBUG",
+    
+    // Ustawienia logowania
+    "logging": {
+        "console": true,     // Czy pokazywać logi w konsoli
+        "file": true,        // Czy zapisywać logi do pliku
+        "directory": "logs"  // Folder gdzie będą zapisywane pliki logów
+    },
+
+    // Token bota Discord - WSTAW TUTAJ SWÓJ TOKEN!
+    "token": "",
+
+    // Ustawienia systemu ticketów
+    "tickets": {
+        "staffRole": "123456789",    // ID roli dla obsługi ticketów
+        "adminRole": "987654321",    // ID roli administratora
+        "loggingChannel": "123123123123123123",  // ID kanału gdzie będą wysyłane logi ticketów
+        
+        // Kategorie ticketów
+        "categories": {
+            // Kategoria pomocy ogólnej
+            "support": {
+                "name": "🎫 Pomoc",  // Nazwa wyświetlana w menu
+                "categoryId": "111111111",  // ID kategorii na Discordzie gdzie będą tworzone kanały
+                "description": "Potrzebujesz pomocy? Kliknij tutaj!"  // Opis przycisku
+            },
+            // Kategoria zgłoszeń
+            "report": {
+                "name": "⚠️ Zgłoszenia",
+                "categoryId": "222222222",
+                "description": "Zgłoś gracza lub błąd"
+            }
+        }
+    },
+
+    // Ustawienia powitań/pożegnań
+    "welcome": {
+        "enabled": true,  // Włącz/wyłącz system powitań
+        "channel": "1323372744473186415",  // ID kanału gdzie będą wysyłane powitania
+        
+        // Wiadomości powitalne/pożegnalne
+        "messages": {
+            // {user} = nazwa użytkownika, {server} = nazwa serwera, {count} = liczba członków
+            "welcome": "🎉 Witaj {user} na serwerze **{server}**!\n👥 Jesteś naszym {count} użytkownikiem!",
+            "leave": "👋 **{user}** opuścił(-a) nasz serwer. Mamy nadzieję, że jeszcze wrócisz!"
+        },
+        
+        // Kolory ramek wiadomości (w formacie HEX)
+        "color": {
+            "welcome": "#00ff00",  // Zielony dla powitań
+            "leave": "#ff0000"     // Czerwony dla pożegnań
+        },
+        
+        "thumbnail": true,      // Czy pokazywać awatar użytkownika
+        "showTimestamp": true   // Czy pokazywać datę/czas wysłania
+    }
+} 
